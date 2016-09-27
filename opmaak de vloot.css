@@ -1,0 +1,141 @@
+
+body{
+ 	font-family: sans-serif;
+ }
+ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	background-image: url("header.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-size: 30px;
+	position: absolute;
+	overflow: hidden;
+}
+li {
+	float: left;
+	margin:3px 1.5px;
+}
+li a {
+	display: inline-block;
+	text-align: center;
+	padding: 80px 16px;
+	text-decoration: none;
+	color: white;
+
+}
+li a:hover {
+	background-color: rgba(192, 192, 192, 0.6 );
+}
+.float {
+	float: left;
+	margin: 10px;
+}
+p {
+	font-size: 25px;
+}
+h2 {
+	font-size: 30px;
+}
+h1{
+	margin: 0;
+	font-size: 35px;
+}
+#bovenaan {
+	font-size: 20px;
+	margin: 0 0 50px;
+}
+#left {
+	position: absolute;
+	left:0;
+	top: 312px;
+	background-color: lightblue;
+	width: 12cm;
+	height: 310px;
+}
+#right {
+	position: absolute;
+	right:0;
+	top: 312px;
+	background-color: lightblue;
+	width: 531px;
+	height: 310px;
+}
+#tekst {
+	width: 800px;
+	position: absolute;
+	left: 470px;
+	top: 310px;
+	margin: 0px auto;
+
+
+}
+#menu {
+	overflow: hidden;
+	width: 29cm;
+	height: 1000px;
+	position: absolute;
+	left: 12cm;
+	top: 0cm;
+	margin: 0px auto;
+}
+.geschienis1 {
+	float: left;
+	margin:10px;
+}
+.geschienis2 {
+	float: right;
+	margin: 10px;
+	display: inline;
+}
+.geschienis4 {
+	float: left;
+	margin: 10px;
+	display: inline;
+}
+.geschienis11 {
+	float: left;
+	margin: 10px;
+	display: inline;
+}
+.geschienis12 {
+	float: right;
+	margin: 10px;
+	display: inline;
+}
+.geschienis5 {
+	float: right;
+	margin: 10px;
+	display: inline;
+}
+.geschienis6 {
+	float: left;
+	margin: 10px;
+	display: inline;
+}
+.geschienis7 {
+	float: left;
+	margin: 10px;
+	display: inline;
+}
+.geschienis3 {
+	float: left;
+	margin: 10px;
+	display: inline;
+}
+.vloot8 {
+	float: left;
+	margin: 10px;
+	display: inline-block;
+}
+.vloot9 {
+	float: right;
+	margin: 10px;
+	display: inline-block;
+}
+.vloot10 {
+	float: left;
+	margin: 10px;
+	display: inline-block;
+}
